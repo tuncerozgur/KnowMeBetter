@@ -1,15 +1,25 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D5603AQE4azkV2aPalg/profile-displayphoto-shrink_800_800/0/1704129750240?e=1715212800&v=beta&t=ICyd2gW0XqqlE8VOLUXEWtSQPDqQTA7RdgDo6eNqhuU"  />
+  <img height="150" src="https://i.giphy.com/QKDpE67Rc7rpjBmQPj.webp"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="linkedin.com/in/tuncer-ozgur" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.gg/RR8t7wNq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://twitter.com/tuncerozgur85" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://b210216javade-cjd8432.slack.com/team/U05REPZ3HML" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  </a>
+  <a href="tuncerozgur@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
 </div>
 
 ###
@@ -22,7 +32,7 @@
 
 ###
 
-<p align="left">A passionate Software Test Specialist<br><br>- 🔭 I’m practicing Frameworks<br>- 📚 I'm currently learning Cucumber<br>- ⚡ In my free time I research frameworks</p>
+<p align="left">A passionate Software Test Specialist<br><br>- 🔭 I’m practicing Frameworks<br>- 📚 I'm currently learning Cucumber<br>- ⚡ In my free time I research new programming languages  , testing enviroments</p>
 
 ###
 
@@ -71,12 +81,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/tuncerozgur/count.svg?"  />
-</div>
-
-###
-
-
+<img src="https://raw.githubusercontent.com/tuncerozgur/tuncerozgur/output/snake.svg" alt="Snake animation" />
 
 ###
