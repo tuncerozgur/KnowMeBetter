@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.giphy.com/QKDpE67Rc7rpjBmQPj.webp"  />
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHliNWkybTJ0anRybmlqMTBidHcwYWtyZzRjcThubWJjNHoxdzRkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif"  />
 </div>
 
 ###
@@ -81,6 +81,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tuncerozgur/tuncerozgur/output/snake.svg" alt="Snake animation" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDB4YXRtbjk1cDA2N29tazJ6dDE4ODBhd29jb3o0ZXBnMzFtM20wMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5UxOaUbUVGm6vjoD7A/giphy.gif" />
 
 ###
