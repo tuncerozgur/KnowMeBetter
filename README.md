@@ -1,17 +1,16 @@
 <div align="center">
-  <img height="150" src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp"  />
+  <img height="150" src="https://i.giphy.com/QXwtfadqo7wbfmT46H.webp"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/tuncer-ozgur" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
+  <a href="https://www.linkedin.com/in/tuncer-ozgur/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:tuncerozgur@outlook.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-</a>
+  <a href="tuncerozgur@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  </a>
   <a href="https://discord.gg/RR8t7wNq" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
@@ -76,6 +75,8 @@
 
 ###
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHliNWkybTJ0anRybmlqMTBidHcwYWtyZzRjcThubWJjNHoxdzRkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZCSZp478OpzSMpAAFc/giphy.gif" />
+<div align="center">
+  <img height="200" src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp"  />
+</div>
 
 ###
