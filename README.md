@@ -77,6 +77,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/tuncerozgur/tuncerozgur/output/snake.svg" alt="Snake animation" />
+
 
 ###
