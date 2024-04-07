@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hello, I am a passionate Software Test Specialist.<br><br>🔭 I am currently practicing with frameworks.<br>📚 I am currently learning Cucumber.<br>⚡ In my free time, I research new programming languages and testing environments.</p>
+<p align="left">Hello, I am a passionate Software Test Engineer<br><br>🔭 I am currently practicing with frameworks.<br>📚 I am currently learning Cypress<br>⚡ In my free time, I research new programming languages and testing environments.</p>
 
 ###
 
@@ -71,17 +71,7 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/cypress.svg" alt="Cypress" width="40" height="40"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=tuncerozgur&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center"></h3>
 
 <div align="center">
   <img height="200" src="https://i.giphy.com/JqmupuTVZYaQX5s094.webp"  />
