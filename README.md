@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Hello, I am a passionate Software Test Engineer<br><br>🔭 I am currently practicing with frameworks.<br>📚 I am currently learning Cypress<br>⚡ In my free time, I research new programming languages and testing environments.</p>
+<p align="left">Hello, I am a passionate Software Test Engineer<br><br>🔭 I am currently practicing with frameworks.<br>📚 I am currently learning Cypress.<br>⚡ In my free time, I research new programming languages and testing environments.</p>
 
 ###
 
